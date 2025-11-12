@@ -131,6 +131,49 @@
         <p>เป้าหมายในอนาคต หรือ Career Interest</p>
       </div>
     </div>
+    <!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Skills</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+
+    <!-- Programming Skills -->
+    <section class="card">
+      <h2><i class="icon">💻</i> programming skills</h2>
+      <div class="bar-group">
+        <div class="bar"><span>HTML5</span><div class="progress"><div class="fill" style="width:85%;"></div></div></div>
+        <div class="bar"><span>C</span><div class="progress"><div class="fill" style="width:50%;"></div></div></div>
+        <div class="bar"><span>JavaScript</span><div class="progress"><div class="fill" style="width:60%;"></div></div></div>
+        <div class="bar"><span>Python</span><div class="progress"><div class="fill" style="width:80%;"></div></div></div>
+        <div class="bar"><span>Java</span><div class="progress"><div class="fill" style="width:70%;"></div></div></div>
+        <div class="bar"><span>PHP</span><div class="progress"><div class="fill" style="width:55%;"></div></div></div>
+        <div class="bar"><span>MySQL</span><div class="progress"><div class="fill" style="width:65%;"></div></div></div>
+      </div>
+    </section>
+
+    <!-- Soft Skills -->
+    <section class="card">
+      <h2><i class="icon">🧠</i> soft skills</h2>
+      <div class="circle-group">
+        <div class="circle"><div class="circle-progress" style="--percent:80;"></div><span>AI</span></div>
+        <div class="circle"><div class="circle-progress" style="--percent:70;"></div><span>Photoshop</span></div>
+        <div class="circle"><div class="circle-progress" style="--percent:65;"></div><span>Alight Motion</span></div>
+      </div>
+    </section>
+
+    <!-- Interests -->
+    <section class="card">
+      <h2><i class="icon">⭐</i> interests</h2>
+      <div class="interests">
+        <div class="interest"><div class="icon">🎧</div><p>Music</p></div>
+        <div class="interest"><div class="icon">🎮</div><p>Games</p></div>
+      </div>
+    </section>
   </div>
 </body>
 </html>
