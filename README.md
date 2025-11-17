@@ -4,6 +4,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>หน้าแรกของนักศึกษา</title>
   <style>
+    <html>
+<head>
+    <title>  <title>
+    <img src="images/cat.jpg" alt=https://1drv.ms/i/c/d2ee313bc3f7b60c/IQDPy4LLe7ITQ6Ui3QqdfY3TATIpfzOyWDqOI0EgkoXwAmE?e=dD11ux width="300">
+    </body>
+</html>
     body {
       margin: 0;
       font-family: "Sarabun", sans-serif;
