@@ -1,15 +1,14 @@
-<!DOCTYPE html>
 <html lang="th">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>หน้าแรก GitHub.io ของนักศึกษา</title>
+  <title>หน้าแรกของนักศึกษา</title>
   <style>
     body {
       margin: 0;
       font-family: "Sarabun", sans-serif;
       background-color: #2b2b2b;
-      color: #000;
+      color: #001;
     }
     .container {
       max-width: 1100px;
