@@ -79,14 +79,12 @@
       
 
         <h2>2. ทักษะ (Skills)</h2>
-        <p>จุดประสงค์: ทำให้อาจารย์เห็นว่าทำอะไรได้บ้าง</p>
+        <p> Programming: Python, Java, HTML/CSS, JAvaScript</p>
         <ul>
-          <li>Programming: Python, Java, HTML/CSS, JavaScript</li>
           <li>AI & Data: TensorFlow, scikit-learn, Power BI, SQL</li>
-          <li>Tools: Git, VS Code, Figma, Google Colab</li>
+          <li>Tools: Git, VS Code,Google Colab</li>
         </ul>
-        <p><strong>Soft Skills:</strong> การสื่อสาร, การทำงานเป็นทีม, การแก้ปัญหา</p>
-
+        <p><strong>Soft Skills:</strong> การสื่อสาร, การทำงานเป็นทีม, การแก้ปัญหา, ทำความรู้เกี่ยวกับเนื้อหาใหม๋ๆ </p>
 
       <!-- คอลัมน์กลาง -->
       <div class="col">
@@ -96,6 +94,7 @@
           <li>เว็บไซต์ที่เคยพัฒนา</li>
           <li>ทำระบบบริการนักศึกษาคณะพยาบาล</li>
           <li>
+          <li> gh repo clone mufo27/mis-udru </li>
   
 
         <h2>4. การศึกษา (Education)</h2>
