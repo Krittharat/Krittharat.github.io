@@ -11,8 +11,8 @@
     body {
       margin: 0;
       font-family: "Sarabun", sans-serif;
-      background-color: #2b2b2b;
-      color: #000;
+      background-color: #3b3b3b;
+      color: #004;
     }
     .container {
       max-width: 1100px;
