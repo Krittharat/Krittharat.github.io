@@ -6,8 +6,6 @@
   <style>
     <html>
 <head>
-    <title>  <title>
-    <img src="images/cat.jpg" alt=https://1drv.ms/i/c/d2ee313bc3f7b60c/IQDPy4LLe7ITQ6Ui3QqdfY3TATIpfzOyWDqOI0EgkoXwAmE?e=dD11ux width="300">
     </body>
 </html>
     body {
@@ -122,9 +120,7 @@
           Email: Krittharat25@gmail.com <br>
           line: kritt1 <br>
           Facedook:Krittharat Kaewpila <br>
-          
-          
-        
+          Github: krittharat  
         </p>
 
         <h2>7. องค์ประกอบเสริม</h2>
