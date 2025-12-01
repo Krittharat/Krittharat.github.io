@@ -6,6 +6,7 @@
   <style>
     <html>
 <head>
+    <img src"http://cdn.jsdelivr.net/gh/Krittharat/images/481822909_1166744311602782_2582800290556799553_n.jpg">
     </body>
 </html>
     body {
@@ -65,7 +66,7 @@
     <h1>หน้าแรก GitHub.io ของนักศึกษา</h1>
     <div class="columns">
       <div class="col">
-        <img src"http://cdn.jsdelivr.net/gh/Krittharat/images/481822909_1166744311602782_2582800290556799553_n.jpg">
+      
         <h2>1. ส่วนแนะนำตัว (Introduction / Profile)</h2>
         <p>จุดประสงค์: ให้คนรู้ว่าเราเป็นใคร สนใจด้านไหน</p>
         <ul>
