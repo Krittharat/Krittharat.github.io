@@ -6,8 +6,8 @@
   <style>
     <html>
 <head>
-    <img src"http://cdn.jsdelivr.net/gh/Krittharat/images/481822909_1166744311602782_2582800290556799553_n.jpg">
     </body>
+    <img src="http://cdn.jsdelivr.net/gh/Krittharat/images/481822909_1166744311602782_2582800290556799553_n.jpg">
 </html>
     body {
       margin: 0;
