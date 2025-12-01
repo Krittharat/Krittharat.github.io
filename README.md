@@ -9,56 +9,6 @@
     </body>
     <img src="http://cdn.jsdelivr.net/gh/Krittharat/images/481822909_1166744311602782_2582800290556799553_n.jpg">
 </html>
-    body {
-      margin: 0;
-      font-family: "Sarabun", sans-serif;
-      background-color: #3b3b3b;
-      color: #004;
-    }
-    .container {
-      max-width: 1100px;
-      background: white;
-      margin: 40px auto;
-      padding: 30px 50px;
-      box-shadow: 0 0 20px rgba(0,0,0,0.3);
-      border-radius: 8px;
-    }
-    h1 {
-      font-size: 28px;
-      font-weight: bold;
-      margin-bottom: 10px;
-    }
-    h2 {
-      font-size: 20px;
-      color: #e60000;
-      margin-top: 30px;
-      margin-bottom: 8px;
-    }
-    p, li {
-      font-size: 17px;
-      line-height: 1.6;
-    }
-    ul {
-      margin: 0;
-      padding-left: 20px;
-    }
-    .columns {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 40px;
-    }
-    .col {
-      flex: 1;
-      min-width: 300px;
-    }
-    strong {
-      color: #e60000;
-    }
-    @media (max-width: 768px) {
-      .columns {
-        flex-direction: column;
-      }
-    }
   </style>
 </head>
 <body>
