@@ -71,6 +71,7 @@
           line: kritt1 <br>
           Facedook:Krittharat Kaewpila <br>
           Github: krittharat  
+          เบอร์โทร: 0832311126
         </p>
 
         <h2>7. องค์ประกอบเสริม</h2>
