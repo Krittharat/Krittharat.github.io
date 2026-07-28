@@ -32,7 +32,7 @@
       
 
         <h2>2. ทักษะ (Skills)</h2>
-        <p> Programming: Python, Java, HTML/CSS, JAvaScript</p>
+        <p> Programming: Python,Java,HTML/CSS,JAvaScript,C#,C++</p>
         <ul>
           <li>AI & Data: TensorFlow, scikit-learn, Power BI, SQL</li>
           <li>Tools: Git, VS Code,Google Colab</li>
@@ -46,7 +46,8 @@
         <ul>
           <li>เว็บไซต์ที่เคยพัฒนา</li>
           <li>ทำระบบบริการนักศึกษาคณะพยาบาล</li>
-          <li>
+          <li>ระบบคิดเงินร้านอาหาร</li>
+          
           <li> gh repo clone mufo27/mis-udru </li>
   
 
@@ -55,12 +56,11 @@
         คณะวิทยาศาสตร์ <br>
         สาขาวิทยาการคอมพิวเตอร์<br>
         มหาวิทยาลัยราชภัฏอุดรธานี<br>
-
-
-      <!-- คอลัมน์ขวา -->
       <div class="col">
         <h2>5. กิจกรรมและผลงานอื่น ๆ (Activities / Achievements)</h2>
-        <p>เพื่อแสดงความสามารถรอบด้าน</p>
+        <p>เพื่อแสดงความสามารถรอบด้าน</p> 
+        <p>อบรมระบบป้องกันภัยทางไซร์เบอร์</p>
+        <p>เข้าร่วมอบรม AI </p>
         <ul>
           <li></li>
           <li></li>
@@ -74,7 +74,7 @@
           Facedook:Krittharat Kaewpila <br>
           Github: krittharat  
           เบอร์โทร: 0832311126
-        </p>
+          Github : Krittharat.github.io  </p>
 
         <h2>7. องค์ประกอบเสริม</h2>
         <p>
