@@ -72,8 +72,8 @@
           Email: Krittharat25@gmail.com <br>
           line: kritt1 <br>
           Facedook:Krittharat Kaewpila <br>
-          Github: krittharat  
-          เบอร์โทร: 0832311126
+          Github: krittharat  <br>
+          เบอร์โทร: 0832311126 <br>
           Github : Krittharat.github.io  </p>
 
         <h2>7. องค์ประกอบเสริม</h2>
